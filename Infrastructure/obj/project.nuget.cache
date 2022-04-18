@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkO0A99J8K9O4W0daZSZMZ3xDZaJQXQg7B8ARaaP1do/DCVYgxEKWknVXC/++AFke785VNRajpLuvGye8VJ6cA==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\HarryPotterAPI\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-ANDERSON\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
